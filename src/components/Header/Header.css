@@ -1,0 +1,15 @@
+.profile_content{
+    color: white;
+    text-align: center;
+    margin: 35px 0;
+}
+
+.profile_pic{
+    display: block;
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-image: url('../../../assets/img_avatar.png');
+    background-size: cover;
+    border-radius: 50%;
+}
